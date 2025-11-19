@@ -1,5 +1,5 @@
 ## 🌏 Green Earth
-is a clean, mobile-first landing page and mini storefront for planting trees. Visitors can browse tree types, add selections to a cart, view campaign information and impact stats, and submit a donation/planting form. The project is static (no backend required) and intended for fast, easy hosting (e.g., GitHub Pages).
+Green Earth is a clean, mobile-first landing page and mini storefront for planting trees. Visitors can browse tree types, add selections to a cart, view campaign information and impact stats, and submit a donation/planting form. The project is static (no backend required) and intended for fast, easy hosting (e.g., GitHub Pages).
 
 ## ✨ Features (implemented)
 
