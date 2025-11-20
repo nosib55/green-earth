@@ -28,9 +28,10 @@ Green Earth can be used as an awareness platform, educational resource, or NGO i
 ---
 
 ## 🛠 Tech Stack  
-- **React**  
+- **HTML**  
 - **Tailwind CSS**  
-- **JavaScript**  
+- **JavaScript** 
+- **REST APIs** 
 
 ---
 
@@ -40,7 +41,7 @@ Green Earth can be used as an awareness platform, educational resource, or NGO i
 git clone https://github.com/nosib55/green-earth.git
 cd green-earth
 npm install
-npm run dev
+npm run dev/use live server
 ```
 
 ---
